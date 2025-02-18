@@ -133,7 +133,7 @@
     {"key": "csp_trj","name": "🛫┃唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"changeable": 1 },
     {"key": "P4_绿豆","name": "🐼┃绿豆┃影视","type": 3,"api": "csp_Lvdou","searchable": 1,"quickSearch": 0,"changeable": 0,"playerType": "1","ext":{"server": "http://s.weixine.net/api.php/app/","mackey": "6JLF1OWhgEnMexAs|6CrRdTxr2qXj9258"}},
     {"key": "P4_Kuaikan","name": "👀┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./libs/jar/P4.jar"},
-    {"key": "P4_哔嘀","name": "️️💦┃哔嘀┃影视","type": 3,"api": "csp_Bdys","playerType": "1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./libs/jar/P4.jar"},
+    {"key": "P4_哔嘀","name": "️️💦┃哔嘀┃影视","type": 3,"api": "csp_Bdys","playerType": "1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./libs/jar/P4.jar","ext": "aHR0cHM6Ly92LnhseXMubHRkLnVhLw=="},
     {"key": "P4_皮皮虾","name": "🦐┃皮皮┃影视","type": 3,"api": "csp_PipiXia","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./libs/jar/P4.jar"},
 
 
